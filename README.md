@@ -22,3 +22,25 @@ Este repositório contém uma aplicação simples de "Amigo Secreto" que permite
 1. Clone o repositório em sua máquina local:
    ```bash
    git clone https://github.com/seu-usuario/amigo-secreto.git
+2. Navegue até a pasta do projeto:
+    ```bash
+   cd amigo-secreto
+3. Abra o arquivo index.html em um navegador de sua escolha para ver a aplicação em funcionamento.
+
+Como Contribuir
+Se você quiser contribuir para este projeto, siga os passos abaixo:
+
+1. Faça um fork deste repositório.
+2. Crie uma branch com sua funcionalidade ou correção de bug:
+   ```bash
+   git checkout -b minha-nova-funcionalidade
+3. Faça as alterações necessárias e commit:
+   ```bash
+   git commit -m "Adicionando minha nova funcionalidade"
+4. Faça push para a sua branch:
+   ```bash
+   git push origin minha-nova-funcionalidade
+5. Abra um pull request para este repositório.
+
+   
+
